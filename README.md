@@ -3,7 +3,7 @@ SnT BlueScanner Bluetooth Sniffing  Mobile App
 
 The project contains two folders: Front & Back end
 
-Make sure to:
+# Configuration
 
 -specify in your Backend config.php file your database configuration
 
